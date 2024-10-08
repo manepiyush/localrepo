@@ -1,6 +1,1 @@
-hello
-howbs
-piyush
-piyush
-Aditya 
-Khushal Jogi edited this file 
+i am the one who contributed alot on this project 
